@@ -1,1 +1,3 @@
 # CS-360
+
+The requirements for the app were to have a login screen to verify and create new user credentials and a second screen where the user can add/remove items and modify their count. In addition to those two screens, a third screen for settings which included the option to enable SMS notifications when the count of items in the inventory got low was added. My approach to the development of this app was to break down the requirements of each screen and work on one screen at a time before connecting it to the other screens. To test that the code was functional I went through and tested each of the interactable elements of the app in order to see if they functioned properly.
